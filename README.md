@@ -5,7 +5,7 @@
 <h3>Welcome to my page! </h3>
 
 
-<p style="text-decoration:line-through">I'm Abi, Informatics Student at Telkom University</p>
+<p style="text-decoration:line-through">I'm <b>Abi</b>, Informatics Student at Telkom University</p>
 
 * 🌍  I'm based in Bandung
 * 🖥️  See my portfolio [here](http://abi-widiarta.github.io/)
