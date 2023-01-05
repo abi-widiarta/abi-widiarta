@@ -10,7 +10,7 @@
 * 🌍  I'm based in Bandung
 * 🖥️  See my portfolio [here](http://abi-widiarta.github.io/)
 * ✉️  You can contact me at [abiwidiarta03@gmail.com](mailto:abiwidiarta03@gmail.com)
-* 🚀  I'm currentyly learning Javascript
+* 🚀  I'm currently learning Javascript
 
 
 ### Programming Languages
