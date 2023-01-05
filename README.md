@@ -10,6 +10,7 @@
 * ✉️  You can contact me at [abiwidiarta03@gmail.com](mailto:abiwidiarta03@gmail.com)
 * 🚀  I'm currentyly learning Javascript
 
+
 ### Programming Languages
 
 <p align="left">
@@ -31,7 +32,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/abi-widiarta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abiwidiarta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/abi-widiarta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/abiwidiarta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.instagram.com/abiwidiarta" target="_blank" rel="noreferrer" style="margin-left:10px;display:block"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 <div align="center">
 
@@ -39,7 +40,7 @@
 
 <a align="right" href="http://www.github.com/abi-widiarta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abi-widiarta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/abi-widiarta" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi-widiarta&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
   
 </div>
 
