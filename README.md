@@ -1,4 +1,4 @@
-# Hello ~~World~~ There! <img width="40" src="https://media.tenor.com/H4h_7mBCu7wAAAAi/peace-peace-out.gif"/> <img width="100" style="margin-bottom:-35px" src="https://media.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif">
+# Hello ~~World~~ There! <img width="40" src="https://media.tenor.com/H4h_7mBCu7wAAAAi/peace-peace-out.gif"/>
 
 
 <img width="250" align="right" src="https://media.tenor.com/o5mM5AJRPm0AAAAC/ditto-dance.gif"/>
