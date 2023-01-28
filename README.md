@@ -1,7 +1,7 @@
 # Hello ~~World~~ There! <img width="40" src="https://media.tenor.com/H4h_7mBCu7wAAAAi/peace-peace-out.gif"/>
 
 
-<img width="250" align="right" src="https://media.tenor.com/o5mM5AJRPm0AAAAC/ditto-dance.gif"/>
+<img width="25%" align="right" src="https://media.tenor.com/o5mM5AJRPm0AAAAC/ditto-dance.gif"/>
 <h3>Welcome to my page! </h3>
 
 
