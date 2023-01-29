@@ -8,7 +8,7 @@
 <p>I'm <b>Abi</b>, Informatics Student at Telkom University</p>
 
 * 🌍  I'm based in Bandung
-* 🖥️  See my portfolio [here](http://abi-widiarta.github.io/)
+* 🖥️  Portfolio still in progress, check it [here](http://abi-widiarta.github.io/)
 * ✉️  You can contact me at [abiwidiarta03@gmail.com](mailto:abiwidiarta03@gmail.com)
 * 🚀  I'm currently learning Javascript
 
