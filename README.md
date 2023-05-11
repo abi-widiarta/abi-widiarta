@@ -8,9 +8,9 @@
 <p>I'm <b>Abi</b>, Informatics Student at Telkom University</p>
 
 * 🌍  I'm based in Bandung
-* 🖥️  Portfolio still in progress, check the update [here](http://abi-widiarta.github.io/)
+* 🖥️  Portfolio still in progress
 * ✉️  You can contact me at [abiwidiarta03@gmail.com](mailto:abiwidiarta03@gmail.com)
-* 🚀  I'm currently learning Javascript
+* 🚀  I'm currently laravel
 
 
 <div align="center">
