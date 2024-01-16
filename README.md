@@ -9,8 +9,8 @@
 
 * 🌍  I'm based in Bandung
 * 🖥️  Portfolio still in progress
-* ✉️  You can contact me at [abiwidiarta03@gmail.com](mailto:abiwidiarta03@gmail.com)
-* 🚀  I'm currently learning laravel
+* ✉️  You can contact me at [abiwidiarta01@gmail.com](mailto:abiwidiarta01@gmail.com)
+* 🚀  I'm currently learning react
 
 
 <div align="center">
