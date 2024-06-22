@@ -8,7 +8,7 @@
 <p>I'm <b>Abi</b>, Informatics Student at Telkom University</p>
 
 * 🌍  I'm based in Bandung
-* 🖥️  Portfolio still in progress
+* 🖥️  Checkout my portfolio [here!](https://portfolio-six-theta-20.vercel.app/)
 * ✉️  You can contact me at [abiwidiarta01@gmail.com](mailto:abiwidiarta01@gmail.com)
 * 🚀  I'm currently learning react
 
