@@ -25,9 +25,13 @@
 </div>
 
 
-<p align="center">
-<a  href="http://www.github.com/abi-widiarta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abi-widiarta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
 
+
+<p align="center">
+<a href="https://github.com/abi-widiarta">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abi-widiarta&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abi-widiarta&layout=compact&langs_count=8&theme=gotham"/>
+</a>
+</p>
 
 <img width="100%" align="center" src="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/github-contribution-grid-snake-dark.svg"/>
