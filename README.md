@@ -47,8 +47,11 @@
 </p>
 
 <img width="100%" align="center" src="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/github-contribution-grid-snake-dark.svg"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/pacman-contribution-graph.svg">
 </picture>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mz2xfgfh9e529mj6lm4d2n3ln&width={width})
