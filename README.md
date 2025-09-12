@@ -50,6 +50,8 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/pacman-contribution-graph.svg">
 </picture>
 
+<!--
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=mz2xfgfh9e529mj6lm4d2n3ln&count=5&width=1000" alt="Spotify recently played"/>
 </p>
+-->
