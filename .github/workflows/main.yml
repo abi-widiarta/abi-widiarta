@@ -45,6 +45,7 @@ jobs:
     timeout-minutes: 5
     permissions:
       contents: write
+    needs: snake   # 👈 Pac-Man waits for Snake to finish
 
     steps:
       - name: Generate pacman-contribution-graph.svg
