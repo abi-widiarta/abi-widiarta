@@ -1,4 +1,4 @@
-# Hello ~~World~~ There! <img width="40" src="https://media.tenor.com/H4h_7mBCu7wAAAAi/peace-peace-out.gif"/>
+# Hello There! <img width="40" src="https://media.tenor.com/H4h_7mBCu7wAAAAi/peace-peace-out.gif"/>
 
 
 <img width="25%" align="right" src="https://media.tenor.com/o5mM5AJRPm0AAAAC/ditto-dance.gif"/>
@@ -7,10 +7,10 @@
 
 <p>I'm <b>Abi</b>, Informatics Student at Telkom University</p>
 
-* 🌍  I'm based in Bandung
+* 🌍  I'm based in Jakarta
 * 🖥️  Checkout my portfolio [here!](https://portfolio-six-theta-20.vercel.app/)
 * ✉️  You can contact me at [abiwidiarta01@gmail.com](mailto:abiwidiarta01@gmail.com)
-* 🚀  I'm currently learning react
+* 🚀  I'm currently learning react environment
 
 
 <h3>Tools I Used</h3>
@@ -37,8 +37,6 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-<div></div>
-
 <p align="center">
 <a href="https://github.com/abi-widiarta">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abi-widiarta&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -46,12 +44,12 @@
 </a>
 </p>
 
-<img width="100%" align="center" src="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/github-contribution-grid-snake-dark.svg"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abi-widiarta/abi-widiarta/output/pacman-contribution-graph.svg">
 </picture>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mz2xfgfh9e529mj6lm4d2n3ln&width={width})
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=mz2xfgfh9e529mj6lm4d2n3ln&count=5&width=1000" alt="Spotify recently played"/>
+</p>
