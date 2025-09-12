@@ -25,11 +25,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake svg to the output branch
+      - name: Move snake files into subfolder
+        run: |
+          mkdir -p dist/snake
+          mv dist/*.svg dist/snake/
+
+      - name: Push snake svgs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          commit_message: "Deploy Snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -44,12 +51,19 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: dist/pacman-contribution-graph.svg   # 👈 Save into dist/
+          output: dist/pacman-contribution-graph.svg
 
-      - name: Push pacman svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Move pacman files into subfolder
+        run: |
+          mkdir -p dist/pacman
+          mv dist/*.svg dist/pacman/
+
+      - name: Push pacman svgs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          commit_message: "Deploy Pac-Man animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
