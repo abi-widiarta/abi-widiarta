@@ -1,8 +1,11 @@
-# Hello There! <img width="40" src="https://media.tenor.com/H4h_7mBCu7wAAAAi/peace-peace-out.gif"/>
+
+<img width="2560" height="726" alt="image_waifu2x_art_noise3_scale2" src="https://github.com/user-attachments/assets/3f5e5044-22c9-4959-b62c-6eaa08abefa6" />
+
+<!-- Hello There! <img width="40" src="https://media.tenor.com/H4h_7mBCu7wAAAAi/peace-peace-out.gif"/> -->
 
 
-<img width="25%" align="right" src="https://media.tenor.com/o5mM5AJRPm0AAAAC/ditto-dance.gif"/>
-<h3>Welcome to my page! </h3>
+<!-- <img width="25%" align="right" src="https://media.tenor.com/o5mM5AJRPm0AAAAC/ditto-dance.gif"/> -->
+<!-- <h3>Welcome to my page! </h3> -->
 
 
 <p>I'm <b>Abi</b>, Informatics Student at Telkom University</p>
