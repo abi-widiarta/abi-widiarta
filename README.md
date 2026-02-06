@@ -8,7 +8,7 @@
 <!-- <h3>Welcome to my page! </h3> -->
 
 
-<p>I'm <b>Abi</b>, Informatics Student at Telkom University</p>
+<p>I'm <b>Abi</b>, an Informatics graduate from Telkom University.</p>
 
 * 🌍  I'm based in Jakarta
 * 🖥️  Checkout my portfolio [here!](https://portfolio-six-theta-20.vercel.app/)
